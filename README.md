@@ -54,7 +54,7 @@ Project Structure:
 Setup Instructions:
 
 1. Clone the Repository:
-   git clone [https://github.com/yourusername/medical-chatbot](https://github.com/yourusername/medical-chatbot)
+   git clone [https://github.com/yourusername/medical-chatbot](https://github.com/nawafmir/medical-chatbot)
    cd medical-chatbot
 
 2. Install Dependencies:
@@ -96,8 +96,8 @@ Future Improvements:
 Author:
 
 Nawaf Mir Mohammed
-LinkedIn: [https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/your-link)
-Email: [nawafmeer17@gmail.com](mailto:nawafmeer17@gmail.com)
+LinkedIn:(https://www.linkedin.com/in/nawafmir)
+Email: nawafmeer17@gmail.com
 
 Acknowledgments:
 
